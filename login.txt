@@ -1,2 +1,2 @@
-Partial login is developed
+Login is not developed
 
