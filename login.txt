@@ -1,2 +1,16 @@
-Partial login is developed
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Full login is developed
